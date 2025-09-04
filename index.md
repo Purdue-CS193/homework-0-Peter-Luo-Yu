@@ -1,6 +1,6 @@
-### Peter Yu's First CS193 Homework
+# Peter Yu's First CS193 Homework
 
-# My Favorite Things About CS193
+## My Favorite Things About CS193
 - Taught by undergraduates
 - 90% is an A
 - Get 2 drops for lecture comprehension
