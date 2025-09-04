@@ -1,3 +1,12 @@
+### Peter Yu's First CS193 Homework
+
+# My Favorite Things About CS193
+- Taught by undergraduates
+- 90% is an A
+- Get 2 drops for lecture comprehension
+- There is extra credit?
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
